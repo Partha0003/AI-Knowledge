@@ -1,0 +1,670 @@
+{
+  "documents": [
+    {
+      "id": "doc-fin-1",
+      "source": "pdf",
+      "name": "Q4 Budget Report",
+      "content": "Budget variance analysis shows delay in approval for capital expenditure. Finance team flagged risk of overspend in Operations. Pending approval from CFO.",
+      "department": "Finance",
+      "domain": "Finance",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-fin-2",
+      "source": "email",
+      "name": "Revenue Risk Alert",
+      "content": "Critical revenue risk identified in Asia-Pacific region. Approval needed for contingency budget. Delay in closing Q3 accounts.",
+      "department": "Finance",
+      "domain": "Finance",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-fin-3",
+      "source": "spreadsheet",
+      "name": "Cash Flow Forecast",
+      "content": "Updated cash flow projections. Task update: payment terms renegotiation with vendors. No immediate risk.",
+      "department": "Finance",
+      "domain": "Finance",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-ops-1",
+      "source": "pdf",
+      "name": "Process Delay Report",
+      "content": "Significant process delay in fulfillment center B. Vendor dependency on Logistics Corp causing bottlenecks. Risk of SLA breach.",
+      "department": "Operations",
+      "domain": "Operations",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-ops-2",
+      "source": "email",
+      "name": "Delivery Risk Notice",
+      "content": "Delivery risk escalated for Eastern region. Approval required for alternative carrier. Dependency on current vendor at risk.",
+      "department": "Operations",
+      "domain": "Operations",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-ops-3",
+      "source": "spreadsheet",
+      "name": "Inventory Status",
+      "content": "Task update: Stock levels normalized. Vendor dependencies documented. No critical delay.",
+      "department": "Operations",
+      "domain": "Operations",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-hr-1",
+      "source": "pdf",
+      "name": "Hiring Status Q4",
+      "content": "Hiring status update: 12 positions open. Attrition signals in Engineering. Risk of talent gap. Approval needed for retention budget.",
+      "department": "HR",
+      "domain": "HR",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-hr-2",
+      "source": "email",
+      "name": "Policy Update Notice",
+      "content": "New remote work policy requires approval. Attrition analysis shows delay in exit interviews. Important for compliance.",
+      "department": "HR",
+      "domain": "HR",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-hr-3",
+      "source": "spreadsheet",
+      "name": "Headcount Tracker",
+      "content": "Task update: Headcount reconciled. Hiring pipeline status updated. No critical attrition risk.",
+      "department": "HR",
+      "domain": "HR",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-sales-1",
+      "source": "pdf",
+      "name": "Pipeline Status Report",
+      "content": "Pipeline status shows target gap of 15%. Deal risks on Enterprise accounts. Approval pending for discount authority.",
+      "department": "Sales",
+      "domain": "Sales",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-sales-2",
+      "source": "email",
+      "name": "Deal Risk Alert",
+      "content": "High-value deal at risk due to approval delay. Target gap widening. Urgent action required.",
+      "department": "Sales",
+      "domain": "Sales",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-sales-3",
+      "source": "spreadsheet",
+      "name": "Quarterly Targets",
+      "content": "Task update: Target tracking sheet updated. Pipeline forecast revised. Action items for managers.",
+      "department": "Sales",
+      "domain": "Sales",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-legal-1",
+      "source": "pdf",
+      "name": "Contract Approval Queue",
+      "content": "Contract approval backlog. Compliance alert on vendor agreement. Review bottlenecks in Legal. Risk of delay.",
+      "department": "Legal",
+      "domain": "Legal",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-legal-2",
+      "source": "email",
+      "name": "Compliance Alert",
+      "content": "Compliance alert: GDPR review required. Approval needed from Legal. Critical risk if delayed.",
+      "department": "Legal",
+      "domain": "Legal",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-legal-3",
+      "source": "spreadsheet",
+      "name": "Review Status Tracker",
+      "content": "Task update: Contract review status. No immediate compliance risk. Dependency on external counsel.",
+      "department": "Legal",
+      "domain": "Legal",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-it-1",
+      "source": "pdf",
+      "name": "Deployment Update",
+      "content": "Deployment delay on v2.3. Incident report: Minor outage in staging. Security notice: patch required. Approval for maintenance window.",
+      "department": "IT",
+      "domain": "IT",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-it-2",
+      "source": "email",
+      "name": "Incident Report",
+      "content": "Incident report: API latency spike. Risk of customer impact. Security notice issued. Urgent review.",
+      "department": "IT",
+      "domain": "IT",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    },
+    {
+      "id": "doc-it-3",
+      "source": "spreadsheet",
+      "name": "Sprint Status",
+      "content": "Task update: Sprint velocity tracking. Deployment schedule updated. No critical incidents.",
+      "department": "IT",
+      "domain": "IT",
+      "uploadedAt": "2026-02-06T23:24:36.609Z"
+    }
+  ],
+  "insights": [
+    {
+      "domain": "Finance",
+      "id": "insight-doc-fin-1-1770420276619",
+      "documentId": "doc-fin-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Q4 Budget Report",
+      "summary": "Budget variance analysis shows delay in approval for capital expenditure. Finance team flagged risk of overspend in Operations. Pending approval from ...",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Finance",
+      "id": "insight-doc-fin-2-1770420276619",
+      "documentId": "doc-fin-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Revenue Risk Alert",
+      "summary": "Critical revenue risk identified in Asia-Pacific region. Approval needed for contingency budget. Delay in closing Q3 accounts.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Finance",
+      "id": "insight-doc-fin-3-1770420276619",
+      "documentId": "doc-fin-3",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Cash Flow Forecast",
+      "summary": "Updated cash flow projections. Task update: payment terms renegotiation with vendors. No immediate risk.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Operations",
+      "id": "insight-doc-ops-1-1770420276619",
+      "documentId": "doc-ops-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Process Delay Report",
+      "summary": "Significant process delay in fulfillment center B. Vendor dependency on Logistics Corp causing bottlenecks. Risk of SLA breach.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Operations",
+      "id": "insight-doc-ops-2-1770420276619",
+      "documentId": "doc-ops-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Delivery Risk Notice",
+      "summary": "Delivery risk escalated for Eastern region. Approval required for alternative carrier. Dependency on current vendor at risk.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Operations",
+      "id": "insight-doc-ops-3-1770420276619",
+      "documentId": "doc-ops-3",
+      "priority": "High",
+      "relevanceRoles": [
+        "Employee"
+      ],
+      "title": "Inventory Status",
+      "summary": "Task update: Stock levels normalized. Vendor dependencies documented. No critical delay.",
+      "type": "task",
+      "alertFlag": true,
+      "alertSeverity": "Medium"
+    },
+    {
+      "domain": "HR",
+      "id": "insight-doc-hr-1-1770420276620",
+      "documentId": "doc-hr-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Hiring Status Q4",
+      "summary": "Hiring status update: 12 positions open. Attrition signals in Engineering. Risk of talent gap. Approval needed for retention budget.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "HR",
+      "id": "insight-doc-hr-2-1770420276620",
+      "documentId": "doc-hr-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Policy Update Notice",
+      "summary": "New remote work policy requires approval. Attrition analysis shows delay in exit interviews. Important for compliance.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "HR",
+      "id": "insight-doc-hr-3-1770420276620",
+      "documentId": "doc-hr-3",
+      "priority": "High",
+      "relevanceRoles": [
+        "Employee"
+      ],
+      "title": "Headcount Tracker",
+      "summary": "Task update: Headcount reconciled. Hiring pipeline status updated. No critical attrition risk.",
+      "type": "task",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Sales",
+      "id": "insight-doc-sales-1-1770420276620",
+      "documentId": "doc-sales-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Pipeline Status Report",
+      "summary": "Pipeline status shows target gap of 15%. Deal risks on Enterprise accounts. Approval pending for discount authority.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Sales",
+      "id": "insight-doc-sales-2-1770420276620",
+      "documentId": "doc-sales-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Deal Risk Alert",
+      "summary": "High-value deal at risk due to approval delay. Target gap widening. Urgent action required.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Sales",
+      "id": "insight-doc-sales-3-1770420276620",
+      "documentId": "doc-sales-3",
+      "priority": "Low",
+      "relevanceRoles": [
+        "Manager",
+        "Employee"
+      ],
+      "title": "Quarterly Targets",
+      "summary": "Task update: Target tracking sheet updated. Pipeline forecast revised. Action items for managers.",
+      "type": "task"
+    },
+    {
+      "domain": "Legal",
+      "id": "insight-doc-legal-1-1770420276620",
+      "documentId": "doc-legal-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Contract Approval Queue",
+      "summary": "Contract approval backlog. Compliance alert on vendor agreement. Review bottlenecks in Legal. Risk of delay.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Legal",
+      "id": "insight-doc-legal-2-1770420276620",
+      "documentId": "doc-legal-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Compliance Alert",
+      "summary": "Compliance alert: GDPR review required. Approval needed from Legal. Critical risk if delayed.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "Legal",
+      "id": "insight-doc-legal-3-1770420276620",
+      "documentId": "doc-legal-3",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Review Status Tracker",
+      "summary": "Task update: Contract review status. No immediate compliance risk. Dependency on external counsel.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "IT",
+      "id": "insight-doc-it-1-1770420276620",
+      "documentId": "doc-it-1",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Deployment Update",
+      "summary": "Deployment delay on v2.3. Incident report: Minor outage in staging. Security notice: patch required. Approval for maintenance window.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "IT",
+      "id": "insight-doc-it-2-1770420276620",
+      "documentId": "doc-it-2",
+      "priority": "High",
+      "relevanceRoles": [
+        "CEO",
+        "Manager"
+      ],
+      "title": "Incident Report",
+      "summary": "Incident report: API latency spike. Risk of customer impact. Security notice issued. Urgent review.",
+      "type": "strategic",
+      "alertFlag": true,
+      "alertSeverity": "High"
+    },
+    {
+      "domain": "IT",
+      "id": "insight-doc-it-3-1770420276620",
+      "documentId": "doc-it-3",
+      "priority": "High",
+      "relevanceRoles": [
+        "Employee"
+      ],
+      "title": "Sprint Status",
+      "summary": "Task update: Sprint velocity tracking. Deployment schedule updated. No critical incidents.",
+      "type": "task",
+      "alertFlag": true,
+      "alertSeverity": "Info"
+    }
+  ],
+  "alerts": [
+    {
+      "domain": "Finance",
+      "id": "alert-doc-fin-1-1770420276619",
+      "insightId": "insight-doc-fin-1-1770420276619",
+      "title": "Alert: Q4 Budget Report",
+      "message": "Budget variance analysis shows delay in approval for capital expenditure. Finance team flagged risk of overspend in Operations. Pending approval from CFO.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.619Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Finance",
+      "id": "alert-doc-fin-2-1770420276619",
+      "insightId": "insight-doc-fin-2-1770420276619",
+      "title": "Alert: Revenue Risk Alert",
+      "message": "Critical revenue risk identified in Asia-Pacific region. Approval needed for contingency budget. Delay in closing Q3 accounts.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.619Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Finance",
+      "id": "alert-doc-fin-3-1770420276619",
+      "insightId": "insight-doc-fin-3-1770420276619",
+      "title": "Alert: Cash Flow Forecast",
+      "message": "Updated cash flow projections. Task update: payment terms renegotiation with vendors. No immediate risk.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.619Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Operations",
+      "id": "alert-doc-ops-1-1770420276619",
+      "insightId": "insight-doc-ops-1-1770420276619",
+      "title": "Alert: Process Delay Report",
+      "message": "Significant process delay in fulfillment center B. Vendor dependency on Logistics Corp causing bottlenecks. Risk of SLA breach.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.619Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Operations",
+      "id": "alert-doc-ops-2-1770420276619",
+      "insightId": "insight-doc-ops-2-1770420276619",
+      "title": "Alert: Delivery Risk Notice",
+      "message": "Delivery risk escalated for Eastern region. Approval required for alternative carrier. Dependency on current vendor at risk.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.619Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Operations",
+      "id": "alert-doc-ops-3-1770420276620",
+      "insightId": "insight-doc-ops-3-1770420276619",
+      "title": "Alert: Inventory Status",
+      "message": "Task update: Stock levels normalized. Vendor dependencies documented. No critical delay.",
+      "severity": "Medium",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "Employee"
+      ]
+    },
+    {
+      "domain": "HR",
+      "id": "alert-doc-hr-1-1770420276620",
+      "insightId": "insight-doc-hr-1-1770420276620",
+      "title": "Alert: Hiring Status Q4",
+      "message": "Hiring status update: 12 positions open. Attrition signals in Engineering. Risk of talent gap. Approval needed for retention budget.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "HR",
+      "id": "alert-doc-hr-2-1770420276620",
+      "insightId": "insight-doc-hr-2-1770420276620",
+      "title": "Alert: Policy Update Notice",
+      "message": "New remote work policy requires approval. Attrition analysis shows delay in exit interviews. Important for compliance.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "HR",
+      "id": "alert-doc-hr-3-1770420276620",
+      "insightId": "insight-doc-hr-3-1770420276620",
+      "title": "Alert: Headcount Tracker",
+      "message": "Task update: Headcount reconciled. Hiring pipeline status updated. No critical attrition risk.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "Employee"
+      ]
+    },
+    {
+      "domain": "Sales",
+      "id": "alert-doc-sales-1-1770420276620",
+      "insightId": "insight-doc-sales-1-1770420276620",
+      "title": "Alert: Pipeline Status Report",
+      "message": "Pipeline status shows target gap of 15%. Deal risks on Enterprise accounts. Approval pending for discount authority.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Sales",
+      "id": "alert-doc-sales-2-1770420276620",
+      "insightId": "insight-doc-sales-2-1770420276620",
+      "title": "Alert: Deal Risk Alert",
+      "message": "High-value deal at risk due to approval delay. Target gap widening. Urgent action required.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Legal",
+      "id": "alert-doc-legal-1-1770420276620",
+      "insightId": "insight-doc-legal-1-1770420276620",
+      "title": "Alert: Contract Approval Queue",
+      "message": "Contract approval backlog. Compliance alert on vendor agreement. Review bottlenecks in Legal. Risk of delay.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Legal",
+      "id": "alert-doc-legal-2-1770420276620",
+      "insightId": "insight-doc-legal-2-1770420276620",
+      "title": "Alert: Compliance Alert",
+      "message": "Compliance alert: GDPR review required. Approval needed from Legal. Critical risk if delayed.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "Legal",
+      "id": "alert-doc-legal-3-1770420276620",
+      "insightId": "insight-doc-legal-3-1770420276620",
+      "title": "Alert: Review Status Tracker",
+      "message": "Task update: Contract review status. No immediate compliance risk. Dependency on external counsel.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "IT",
+      "id": "alert-doc-it-1-1770420276620",
+      "insightId": "insight-doc-it-1-1770420276620",
+      "title": "Alert: Deployment Update",
+      "message": "Deployment delay on v2.3. Incident report: Minor outage in staging. Security notice: patch required. Approval for maintenance window.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "IT",
+      "id": "alert-doc-it-2-1770420276620",
+      "insightId": "insight-doc-it-2-1770420276620",
+      "title": "Alert: Incident Report",
+      "message": "Incident report: API latency spike. Risk of customer impact. Security notice issued. Urgent review.",
+      "severity": "High",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "CEO",
+        "Manager"
+      ]
+    },
+    {
+      "domain": "IT",
+      "id": "alert-doc-it-3-1770420276620",
+      "insightId": "insight-doc-it-3-1770420276620",
+      "title": "Alert: Sprint Status",
+      "message": "Task update: Sprint velocity tracking. Deployment schedule updated. No critical incidents.",
+      "severity": "Info",
+      "acknowledged": false,
+      "createdAt": "2026-02-06T23:24:36.620Z",
+      "relevantRoles": [
+        "Employee"
+      ]
+    }
+  ]
+}
