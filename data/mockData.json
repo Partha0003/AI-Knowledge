@@ -169,6 +169,14 @@
       "content": "IT, operations, fast , very urgent, code, program",
       "domain": "Operations",
       "uploadedAt": "2026-02-07T00:39:14.874Z"
+    },
+    {
+      "id": "doc-1770426240093-jhi7h2c",
+      "source": "pdf",
+      "name": "budget",
+      "content": "sales, urgent",
+      "domain": "Sales",
+      "uploadedAt": "2026-02-07T01:04:00.093Z"
     }
   ],
   "insights": [
@@ -449,6 +457,19 @@
       "title": "application report",
       "summary": "IT, operations, fast , very urgent, code, program",
       "type": "update"
+    },
+    {
+      "domain": "Sales",
+      "id": "insight-doc-1770426240093-jhi7h2c-1770426240329",
+      "documentId": "doc-1770426240093-jhi7h2c",
+      "priority": "Medium",
+      "relevanceRoles": [
+        "Manager",
+        "Employee"
+      ],
+      "title": "budget",
+      "summary": "sales, urgent",
+      "type": "update"
     }
   ],
   "alerts": [
@@ -542,7 +563,7 @@
       "title": "Alert: Hiring Status Q4",
       "message": "Hiring status update: 12 positions open. Attrition signals in Engineering. Risk of talent gap. Approval needed for retention budget.",
       "severity": "High",
-      "acknowledged": false,
+      "acknowledged": true,
       "createdAt": "2026-02-06T23:24:36.620Z",
       "relevantRoles": [
         "CEO",
@@ -556,7 +577,7 @@
       "title": "Alert: Policy Update Notice",
       "message": "New remote work policy requires approval. Attrition analysis shows delay in exit interviews. Important for compliance.",
       "severity": "High",
-      "acknowledged": false,
+      "acknowledged": true,
       "createdAt": "2026-02-06T23:24:36.620Z",
       "relevantRoles": [
         "CEO",
@@ -583,7 +604,7 @@
       "title": "Alert: Pipeline Status Report",
       "message": "Pipeline status shows target gap of 15%. Deal risks on Enterprise accounts. Approval pending for discount authority.",
       "severity": "High",
-      "acknowledged": false,
+      "acknowledged": true,
       "createdAt": "2026-02-06T23:24:36.620Z",
       "relevantRoles": [
         "CEO",
